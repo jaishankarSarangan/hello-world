@@ -8,7 +8,7 @@
 </head>
 <body>
 <b>
-<% out.println ("Welcome to Index Page - Hello World") ;%>
+<% out.println ("Welcome to Index Page - Hello World - Testing") ;%>
 </b>
 </body>
 </html>
